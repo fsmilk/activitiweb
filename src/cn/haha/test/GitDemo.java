@@ -4,6 +4,8 @@ public class GitDemo {
 
 	public GitDemo() {
 		// TODO Auto-generated constructor stub
+		
+		super();
 	}
 
 }
